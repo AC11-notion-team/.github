@@ -1,5 +1,7 @@
 ## Zettel 👋
 
+site: https://www.zettel.tw/
+
 大家平常都習慣用什麼方式做筆記? Simplenote, Evernote, Google keep 還是 Notion? </p>
 我們團隊是使用Noion，也因為深深地被前端流暢操作吸引著，所以選擇做為此次專案主題向他們致敬。
 
